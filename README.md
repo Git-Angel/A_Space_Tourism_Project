@@ -1,4 +1,4 @@
-# Frontend Mentor - E-commerce product page solution
+# Frontend Mentor - Space Tourism page solution
 
 This is a solution to the [Space tourism website challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/space-tourism-multipage-website-gRWj1URZ3).
 
@@ -27,18 +27,18 @@ Users should be able to:
 
 ### Screenshots
 
+| Mobile Design|
+|---------------|
+| ![Mobile Design](./public/images/desktopView/mobile.png)|
+|---------------|
 | Desktop Design|
 |---------------|
-| ![Mobile Design](./src/assets/Desktop-View.png)|
-|---------------|
-| Mobile Design |
-|---------------|
-| ![Desktop Design](./src/assets/Mobile-View.png)|
+| ![Desktop Design](./public/images/desktopView/desktop.png)|
 
 ### Links
 
-- Solution URL: [Github Link](https://your-solution-url.com)
-- Live Site URL: [Vercel Link](https://your-live-site-url.com)
+- Solution URL: [Github Link](https://github.com/Git-Angel/A_Space_Tourism_Project)
+- Live Site URL: [Vercel Link](https://a-space-tourism-project.vercel.app/)
 
 ## My process
 

@@ -21,12 +21,12 @@ onClick={() => setOpen(true)}
 </button>
 
 
-<nav className="desktop-nav">
+<div className="desktop-nav">
 <ActiveLink to="/">00 Home</ActiveLink>
 <ActiveLink to="/destination">01 Destination</ActiveLink>
 <ActiveLink to="/crew">02 Crew</ActiveLink>
 <ActiveLink to="/technology">03 Technology</ActiveLink>
-</nav>
+</div>
 </div>
 
 
